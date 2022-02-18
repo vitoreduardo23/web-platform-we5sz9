@@ -2,8 +2,9 @@ body {
   background: rgb(240, 240, 173);
 }
 header h1{
-  padding: 15;
-  height: 15;
+  padding: 7;
+margin: 0;
+  float: left;
 }
 header{
   padding: 0px 0;
@@ -29,6 +30,11 @@ nav a{
 nav a:hover{
   background-color:orange ;
   color: black;
+}
+main{
+  padding: 0 10%;
+  height: 100%;
+  margin-top: 30px;
 }
 main{
   padding: 0 10%;
@@ -58,4 +64,7 @@ table {
 th, td {
   text-align: left;
   padding: 8px;
+}
+iframe{
+  float: right;
 }
