@@ -67,4 +67,10 @@ th, td {
 }
 iframe{
   float: right;
+  border: 0;
+}
+ul{
+  border: 0;
+  padding: 60;
+  font-weight: bolder;
 }
