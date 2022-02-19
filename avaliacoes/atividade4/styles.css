@@ -49,9 +49,6 @@ footer a{
   color: black;
   font-weight: bolder;
 }
-iframe{
-  border-radius: 8px;
-}
 table {
   border-collapse: collapse;
   width: 100%;
@@ -64,6 +61,7 @@ th, td {
 iframe{
   float: right;
   border: 0;
+  border-radius: 8px;
 }
 ul{
   border: 0;
